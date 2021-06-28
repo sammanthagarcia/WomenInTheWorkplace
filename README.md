@@ -4,8 +4,7 @@
 #### Prof. Adam Anderson
 
 
- https://github.com/sammanthagarcia/WomenDiscrimination/blob/main/DH100%20Project%20-%20Page%201%20(3).pdf 
- 
+DH100 Project - Page 1 (3).pdf 
  
 ## Current Team 
 2021: Sammantha Garcia (PI)
