@@ -10,7 +10,8 @@
 2021: Sammantha Garcia (PI)
 
 ## Project Description
-DISCLAIMER: Gender and race have no scientific or biological bias. Both are social constructs with real consequences. 
+*DISCLAIMER: Gender and race have no scientific or biological bias. Both are social constructs with real consequences.*
+ 
 Women, especially Women of Color, experience discrimination in education and in the workplace. This project is using datasets provided by Current Population Survey (CPS) in 2019 to compare the difference in annual income, occupation, and educational level between White Women and Women of Color (Black, Asian, Hispanic). Provided by the CPS, this project will also use an article from 2000 that reported Women of different races' occupation and annual income. 
 
 The goal is to visualize how Women of Color are lower on the social hierarchy simply because of their gender and race. This project will spread awareness on the systemic issues Women face everyday and how Women of Color are still at a severe disadvantage, even after several efforts to change the patriarchy. The results of this project will help pose different ways Women of Color can overcome gender and racial discrimination. 
