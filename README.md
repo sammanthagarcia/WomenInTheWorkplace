@@ -28,8 +28,10 @@ In my Jupyter Notebook, I used the following Python libraries to create my visua
 Using horizontal bar charts for my visualizations allowed me to see how there are less Women of Color in education and in the workforce. It also showed that there were more Women of Color with service occupations and White Women in management/professional occupations. 
 
 ## Inside My Repository 
-1) Women 25-64 (White Alone).csv
-2) Women 25-64 (Black, Asian, Hispanic).csv
-3) Occupation - White Women.csv
-4) Occupation - Black,  Asian, Hispanic.csv
-5) 
+1) Jupyter Notebook.ipynb: Python notebook for visualizations
+2) Occupation - Black,  Asian, Hispanic.csv: dataset for occupations (Women of Color)
+3) Occupation - White Women.csv: dataset for occupations (White Women)
+4) Poster.pdf 
+5) Storyboard.pdf
+6) Women 25-64 (Black, Asian, Hispanic).csv: dataset for income (Women of Color)
+7) Women 25-64 (White Alone).csv: dataset for income (White Women)
