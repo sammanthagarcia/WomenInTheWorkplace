@@ -26,3 +26,10 @@ In my Jupyter Notebook, I used the following Python libraries to create my visua
  3) pandas: This was used to import and read the .csv files, subsequently storing them into a Data Frame.
 
 Using horizontal bar charts for my visualizations allowed me to see how there are less Women of Color in education and in the workforce. It also showed that there were more Women of Color with service occupations and White Women in management/professional occupations. 
+
+## Inside My Repository 
+1) Women 25-64 (White Alone).csv
+2) Women 25-64 (Black, Asian, Hispanic).csv
+3) Occupation - White Women.csv
+4) Occupation - Black,  Asian, Hispanic.csv
+5) 
