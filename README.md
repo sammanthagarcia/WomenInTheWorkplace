@@ -15,7 +15,7 @@ Women, especially Women of Color, experience discrimination in education and in 
 The goal is to visualize how Women of Color are lower on the social hierarchy simply because of their gender and race. This project will spread awareness on the systemic issues Women face everyday and how Women of Color are still at a severe disadvantage, even after several efforts to change the patriarchy. The results of this project will help pose different ways Women of Color can overcome gender and racial discrimination. 
 
 ## Hypothesis
-Because gender and racial discrimination are still prevalent today, I expect my results to show that there are more White Women in management positions with a higher degree of education and with a higher income. In contrast, the total amount of Women of Color at each educational level will be consistently lower than White Women. 
+Because gender and racial discrimination are still prevalent today, I expect my results to show that there are more White Women in management positions; they will also have a higher degree of education and a higher income. In contrast, the total amount of Women of Color at each educational level will be consistently lower than White Women. I predict that Women of Color will generally have more menial labor jobs and have a lower income. 
 
 ## Methods and Tools for Analysis
 After retrieving the datasets from the Census Population Survey (census.gov), I saved them as .csv files in Google Sheets. Then, I imported them into Jupyter Notebook for data cleanup and for generating visualizations. 
