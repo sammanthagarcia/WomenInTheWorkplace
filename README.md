@@ -1,4 +1,4 @@
-# Women in Education and in the Workplace
+# Women in the Workplace
 ## By Sammantha Garcia 
 #### Digital Humanities Summer 2021
 #### Prof. Adam Anderson
