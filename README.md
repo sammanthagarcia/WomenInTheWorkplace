@@ -4,8 +4,7 @@
 #### Prof. Adam Anderson
 
 
-![Women Discrimination](https://github.com/sammanthagarcia/WomenDiscrimination/blob/main/Final%20Poster%20-%20DIGHUM100%20(1).pdf
-)
+![Women Discrimination](https://github.com/sammanthagarcia/WomenDiscrimination/blob/main/Final%20Poster%20-%20DIGHUM100%20(1).pdf)
 
 ## Current Team 
 2021: Sammantha Garcia (PI)
