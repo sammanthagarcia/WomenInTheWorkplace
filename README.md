@@ -33,7 +33,7 @@ Using horizontal bar charts for my visualizations allowed me to see how there ar
 1) Jupyter Notebook.ipynb: Python notebook for visualizations
 2) Occupation - Black,  Asian, Hispanic.csv: dataset for occupations (Women of Color)
 3) Occupation - White Women.csv: dataset for occupations (White Women)
-4) Poster.pdf 
+4) Poster.png 
 5) Storyboard.pdf
 6) Women 25-64 (Black, Asian, Hispanic).csv: dataset for income (Women of Color)
 7) Women 25-64 (White Alone).csv: dataset for income (White Women)
