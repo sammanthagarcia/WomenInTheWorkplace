@@ -30,10 +30,10 @@ In my Jupyter Notebook, I used the following Python libraries to create my visua
 Using horizontal bar charts for my visualizations allowed me to see how there are less Women of Color in education and in the workforce. It also showed that there were more Women of Color with service occupations and White Women in management/professional occupations. 
 
 ## Inside My Repository 
-1) Jupyter Notebook.ipynb: Python notebook for visualizations [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Jupyter%20Notebook.ipynb]
-2) Occupation - Black,  Asian, Hispanic.csv: dataset for occupations (Women of Color) [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Occupation%20-%20Black%2C%20%20Asian%2C%20Hispanic.csv]
-3) Occupation - White Women.csv: dataset for occupations (White Women) [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Occupation%20-%20White%20Women.csv]
+1) Jupyter Notebook.ipynb: _Python notebook for visualizations_ [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Jupyter%20Notebook.ipynb]
+2) Occupation - Black,  Asian, Hispanic.csv: _dataset for occupations (Women of Color)_ [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Occupation%20-%20Black%2C%20%20Asian%2C%20Hispanic.csv]
+3) Occupation - White Women.csv: _dataset for occupations (White Women)_ [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Occupation%20-%20White%20Women.csv]
 4) Poster.png [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Poster.png]
 5) Storyboard.pdf [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Storyboard.pdf]
-6) Women 25-64 (Black, Asian, Hispanic).csv: dataset for income (Women of Color) [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Women%2025-64%20(Black%2C%20Asian%2C%20Hispanic).csv]
-7) Women 25-64 (White Alone).csv: dataset for income (White Women) [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Women%2025-64%20(White%20Alone).csv]
+6) Women 25-64 (Black, Asian, Hispanic).csv: _dataset for income (Women of Color)_ [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Women%2025-64%20(Black%2C%20Asian%2C%20Hispanic).csv]
+7) Women 25-64 (White Alone).csv: _dataset for income (White Women)_ [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Women%2025-64%20(White%20Alone).csv]
