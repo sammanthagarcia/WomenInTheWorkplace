@@ -4,7 +4,7 @@
 #### Prof. Adam Anderson
 
 
-![WomenintheWorkplace](https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/c714ae08cf57aa424e69111ccdb36c1040876313/Poster.pdf)
+![WomenintheWorkplace](https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Poster.png)
 
 ## Current Team 
 2021: Sammantha Garcia (PI)
