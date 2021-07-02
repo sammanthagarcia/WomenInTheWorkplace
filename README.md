@@ -4,7 +4,7 @@
 #### Prof. Adam Anderson
 
 
-![WomenintheWorkplace](https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Poster.png)
+![WomenintheWorkplace]()
 
 ## Current Team 
 2021: Sammantha Garcia (PI)
@@ -36,7 +36,7 @@ Using horizontal bar charts for my visualizations allowed me to see how there ar
 [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Occupation%20-%20Black%2C%20%20Asian%2C%20Hispanic.csv]
 3) Occupation - White Women.csv: _dataset for occupations (White Women)_ 
 [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Occupation%20-%20White%20Women.csv]
-4) Poster.png [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Poster.png]
+4) Poster.png []
 5) Slides.pdf [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Slides.pdf]
 [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Poster.png]
 5) Storyboard.pdf 
