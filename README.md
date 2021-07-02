@@ -37,6 +37,7 @@ Using horizontal bar charts for my visualizations allowed me to see how there ar
 3) Occupation - White Women.csv: _dataset for occupations (White Women)_ 
 [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Occupation%20-%20White%20Women.csv]
 4) Poster.png 
+5) Slides.pdf [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Slides.pdf]
 [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Poster.png]
 5) Storyboard.pdf
 [https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Storyboard.pdf]
