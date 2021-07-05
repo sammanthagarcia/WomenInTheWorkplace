@@ -3,6 +3,7 @@
 #### Digital Humanities Summer 2021
 #### Prof. Adam Anderson
 
+Video Link: https://drive.google.com/file/d/1Is07-j_Km3OBiZB7hq_b3sb9LpSbPjND/view?usp=sharing
 
 ![WomenintheWorkplace](https://github.com/sammanthagarcia/WomenInTheWorkplace/blob/main/Poster.png)
 
